@@ -110,7 +110,6 @@
   <remove-project name="platform/external/avahi" />
   <remove-project name="platform/external/blktrace" />
   <remove-project name="platform/external/bsdiff" />
-  <remove-project name="platform/external/bzip2" />
   <remove-project name="platform/external/c-ares" />
   <remove-project name="platform/external/caliper" />
   <remove-project name="platform/external/cblas" />
@@ -184,7 +183,6 @@
   <remove-project name="platform/external/jsoncpp" />
   <remove-project name="platform/external/jsr305" />
   <remove-project name="platform/external/jsr330" />
-  <remove-project name="platform/external/junit" />
   <remove-project name="platform/external/kernel-headers" />
   <remove-project name="platform/external/ksoap2" />
   <remove-project name="platform/external/libavc" />
@@ -246,7 +244,6 @@
   <remove-project name="platform/external/okhttp" />
   <remove-project name="platform/external/opencv" />
   <remove-project name="platform/external/openfst" />
-  <remove-project name="platform/external/openssh" />
   <remove-project name="platform/external/owasp/sanitizer" />
   <remove-project name="platform/external/parameter-framework" />
   <remove-project name="platform/external/pdfium" />
@@ -391,7 +388,6 @@
   <remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" />
   <remove-project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" />
   <remove-project name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" />
   <remove-project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9" />
